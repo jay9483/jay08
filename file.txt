@@ -14,7 +14,4 @@ THANKS
 
 updating files using visual studio code
 
-i am updating this file using VSC
-
-the codes are being simplified through push and pull in the reposiroties.
-
+i will not be doing anything MFs.
