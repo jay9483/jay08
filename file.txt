@@ -2,19 +2,3 @@
 Hello World
 
 How are you boyyyy??
-
-There
-=======
-
-no words
-
-THANKS
-
->>>>>>> feature
-
-updating files using visual studio code
-
-i am updating this file using VSC
-
-
-
