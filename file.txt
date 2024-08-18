@@ -10,6 +10,3 @@ THANKS
 
 >>>>>>> feature
 
-Hi Prithvi
-
-
