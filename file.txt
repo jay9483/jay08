@@ -8,3 +8,57 @@ naan chennagidhini neen heng idiya?
 
 The greater the merrier.
 
+sumne thale thinbeda hogu aa kade
+
+prithvij@PRITHVIs-MacBook-Air jay08 % git add .
+prithvij@PRITHVIs-MacBook-Air jay08 % git commit -m "merrier"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+prithvij@PRITHVIs-MacBook-Air jay08 % git add .
+prithvij@PRITHVIs-MacBook-Air jay08 % git git commit -m "merrier"
+git: 'git' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+prithvij@PRITHVIs-MacBook-Air jay08 % git commit -m "merrier"
+[main e2302f5] merrier
+ Committer: PRITHVI J <prithvij@PRITHVIs-MacBook-Air.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+)
+prithvij@PRITHVIs-MacBook-Air jay08 % git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 367 bytes | 367.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/jay9483/jay08.git
+   fb44431..e2302f5  main -> main
+prithvij@PRITHVIs-MacBook-Air jay08 % ls
+file.txt        file2.txt
+prithvij@PRITHVIs-MacBook-Air jay08 % cat file.txt 
+<<<<<<< HEAD
+Hello World
+
+How are you boyyyy??
+
+
+naan chennagidhini neen heng idiya?
+
+The greater the merrier.
+
+prithvij@PRITHVIs-MacBook-Air jay08 % 
