@@ -3,7 +3,4 @@ Bye
 
 Thanks for coming in
 =======
-THIS IS NOT A GIT FILE
->>>>>>> feature
-
 
