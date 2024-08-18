@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 Hello
 
 There
+=======
+
+HELLO WELCOME
+
+THANKS
+
+>>>>>>> feature
+
+Hi Prithvi
+
+
